@@ -1,2 +1,1 @@
-# myblog.github.io
-you will love it
+This is my multi language blog
